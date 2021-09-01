@@ -11,14 +11,14 @@ Please feel free to watch this brief video of my project: https://www.loom.com/s
 ----------
 
 ## Installation
-I have provided the `city_environment` file to more efficiently clone the environment and its packages from.
+I have provided the `city_environment` file to efficiently clone the environment and its packages.
 
 ----------
 
 ## Data Description
-The data used for this project came from numbeo.com, and organization that provides cost of living and quality of life information on different cities across the world. Most of the features are indexed based on NYC standards. NYC being 100. So a value of 120 would be 20% more than NYC cost, and a value of 80 would be 20% less than NYC cost. Currency exchange rates have been accounted for.
+The data used for this project came from numbeo.com, an organization that provides cost of living and quality of life information on different cities across the world. Most of the features are indexed based on NYC standards. NYC being 100. So a value of 120 would be 20% more than NYC cost, and a value of 80 would be 20% less than NYC cost. Currency exchange rates have been accounted for.
 
-Current (2021) information was used from their Cost of Living, Qulaity of Life and Property Prices data. Please see the 'City_Recommender_System.ipynb' notebook which describes the variables in each dataset.
+Current (2021) information was used for this project, pulled from their Cost of Living, Qulaity of Life and Property Prices data. Please see the 'City_Recommender_System.ipynb' notebook which describes the variables in each dataset.
 
 Please visit their website for more information on their data collection process: https://www.numbeo.com/common/motivation_and_methodology.jsp
 
@@ -32,6 +32,6 @@ Please visit their website for more information on their data collection process
 
 ----------
 
-Thank you for your interest. Please feel free to reach out to me via LinkedIn: https://www.linkedin.com/in/evanya-wilson/
+Thank you for your interest. Feel free to reach out to me via LinkedIn: https://www.linkedin.com/in/evanya-wilson/
 
 ### End
