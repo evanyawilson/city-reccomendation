@@ -10,8 +10,8 @@ Please feel free to watch this brief video of my project: https://www.loom.com/s
 
 ----------
 
-## Installation
-I have provided the `city_environment` file to efficiently clone the environment and its packages.
+## Data Access
+To access the data, you will need an API key.
 
 ----------
 
