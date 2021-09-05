@@ -25,7 +25,7 @@ Please visit their website for more information on their data collection process
 ----------
 
 ## File Directory
-- `city_environment`: Contains all of the packages installed in my environment in which the project was run (please note, a number of them are base packages).
+- `City_Environment`: Contains all of the packages installed in my environment in which the project was run (please note, a number of them are base packages).
 - `City_Recommender_Report.pdf`: A summary report of my project.
 - `City_Recommender_System.ipynb`: A cleaned and consolidated notebook of all my work for the project.
 - `City_Recommender_Video`: A breif summary of my project through video.
