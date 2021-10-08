@@ -11,7 +11,7 @@ Please feel free to watch this brief video of my project: https://www.loom.com/s
 ----------
 
 ## Data Access
-To access the data, you will need an API key. (EMPLOYERS - PLEASE REQUEST CODE & WEB APP FOR EXPLORATION)
+To access the data, you will need an API key. (EMPLOYERS - PLEASE REQUEST CODE NOTEBOOK & WEB APP FOR EXPLORATION!)
 
 ----------
 
