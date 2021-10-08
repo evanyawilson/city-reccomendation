@@ -11,14 +11,15 @@ Please feel free to watch this brief video of my project: https://www.loom.com/s
 ----------
 
 ## Data Access
-To access the data, you will need an API key. (EMPLOYERS - PLEASE REQUEST CODE NOTEBOOK & WEB APP FOR EXPLORATION USING THE DATA!)
+To access the data, you will need an API key.
+(EMPLOYERS - PLEASE REQUEST CODE NOTEBOOK & WEB APP FOR EXPLORATION USING THE DATA!)
 
 ----------
 
 ## Data Description
 The data used for this project came from numbeo.com, an organization that provides cost of living and quality of life information on different cities across the world. Most of the features are indexed based on NYC standards. NYC being 100. So a value of 120 would be 20% more than NYC cost, and a value of 80 would be 20% less than NYC cost. Currency exchange rates have been accounted for.
 
-Current (2021) information was used for this project, pulled from their Cost of Living, Qulaity of Life and Property Prices data. Please see the 'City_Recommender_System.ipynb' notebook which describes the variables in each dataset.
+Current (2021) information was used for this project, combined from their Cost of Living, Quality of Life and Property Prices data. Please see the 'City_Recommender_System_NDS.ipynb' notebook which describes the variables in each dataset.
 
 Please visit their website for more information on their data collection process: https://www.numbeo.com/common/motivation_and_methodology.jsp
 
