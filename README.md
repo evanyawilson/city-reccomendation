@@ -11,7 +11,7 @@ Please feel free to watch this brief video of my project: https://www.loom.com/s
 ----------
 
 ## Data Access
-To access the data, you will need an API key. (EMPLOYERS - PLEASE REQUEST CODE NOTEBOOK & WEB APP FOR EXPLORATION!)
+To access the data, you will need an API key. (EMPLOYERS - PLEASE REQUEST CODE NOTEBOOK & WEB APP FOR EXPLORATION USING THE DATA!)
 
 ----------
 
@@ -27,7 +27,7 @@ Please visit their website for more information on their data collection process
 ## File Directory
 - `City_Recommender_Report.pdf`: A summary report of my project
 - `City_Recommender_Video`: A breif summary of my project through video
-- `City_Recommender_System.ipynb`: A cleaned and consolidated notebook of all my work for the project (currently by request)
+- `City_Recommender_System_NDS.ipynb`: A cleaned and consolidated notebook of all my work for the project, adapted to consider resriction on data access
 - `City_Webapp.py`: A working reccomendation system via Streamlit web application (currently by request)
 
 ----------
